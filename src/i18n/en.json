@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "assessment": "Self-Assessment",
+    "clientDashboard": "Client Dashboard",
+    "adminDashboard": "Admin Dashboard",
+    "login": "Login"
+  },
+  "home": {
+    "hero": {
+      "headline": "Hospital Pharmacy Excellence & Accreditation Solutions",
+      "subheadline": "Empowering pharmacy departments to achieve CBAHI compliance, improve medication safety, and optimize pharmacy operations.",
+      "ctaPrimary": "Explore Services",
+      "ctaSecondary": "Take Self-Assessment"
+    },
+    "features": {
+      "title": "Why Choose Us?",
+      "items": [
+        {
+          "title": "CBAHI Compliance",
+          "description": "Expert guidance to meet and exceed CBAHI standards."
+        },
+        {
+          "title": "Medication Safety",
+          "description": "Advanced strategies to minimize errors and maximize patient safety."
+        },
+        {
+          "title": "Operational Excellence",
+          "description": "Streamlined workflows and data-driven performance improvement."
+        }
+      ]
+    }
+  },
+  "services": {
+    "title": "Our Specialized Services",
+    "subtitle": "Tailored solutions exclusively for hospital pharmacy departments.",
+    "items": {
+      "policies": {
+        "title": "Hospital Pharmacy Policies & Procedures",
+        "description": "Development and updating of pharmacy policies aligned with CBAHI, MOH, and international medication safety standards.",
+        "deliverables": ["Complete policy manual", "CBAHI-compliant procedures", "Audit-ready documents"]
+      },
+      "cbahi": {
+        "title": "CBAHI Readiness for Pharmacy Department",
+        "description": "Full pharmacy-focused assessment for CBAHI accreditation readiness.",
+        "deliverables": ["Gap analysis report", "Action plan", "Mock survey"]
+      },
+      "safety": {
+        "title": "Medication Safety & Error Analysis",
+        "description": "Advanced analysis of medication errors with root cause analysis and prevention strategies.",
+        "deliverables": ["Error analysis report", "Risk reduction plan", "KPI tracking tools"]
+      },
+      "pip": {
+        "title": "Pharmacy Performance Improvement Projects (PIP)",
+        "description": "Design and execution of pharmacy-specific quality improvement projects.",
+        "deliverables": ["PIP documentation", "KPI dashboards", "Outcome reports"]
+      },
+      "data": {
+        "title": "Pharmacy Data Management & Dashboards",
+        "description": "Creation of Excel systems, KPIs dashboards, and pharmacy analytics tools.",
+        "deliverables": ["Automated dashboards", "Monthly reports", "Data tracking systems"]
+      },
+      "forms": {
+        "title": "Pharmacy Forms & Documentation Design",
+        "description": "Professional design of pharmacy forms aligned with CBAHI standards.",
+        "deliverables": ["Medication forms", "IV preparation forms", "Error reporting forms"]
+      }
+    },
+    "packages": {
+      "basic": "Basic",
+      "standard": "Standard",
+      "premium": "Premium",
+      "orderNow": "Order Now"
+    }
+  },
+  "assessment": {
+    "title": "Pharmacy Self-Assessment Tool",
+    "subtitle": "Evaluate your department's readiness and get personalized recommendations.",
+    "start": "Start Assessment",
+    "questions": [
+      "Are your pharmacy policies fully aligned with the latest CBAHI standards?",
+      "Do you have a structured medication error reporting and analysis system?",
+      "Are your key performance indicators (KPIs) tracked using automated dashboards?"
+    ],
+    "yes": "Yes",
+    "no": "No",
+    "partial": "Partially",
+    "results": {
+      "title": "Your Readiness Score",
+      "recommended": "Recommended Services based on your score:"
+    }
+  },
+  "dashboard": {
+    "client": {
+      "title": "Client Dashboard",
+      "activeProjects": "Active Projects",
+      "documents": "Documents",
+      "invoices": "Invoices",
+      "messages": "Messages",
+      "upload": "Upload Document"
+    },
+    "admin": {
+      "title": "Admin Dashboard",
+      "overview": "Overview",
+      "clients": "Clients",
+      "orders": "Orders",
+      "reports": "Reports",
+      "revenue": "Total Revenue",
+      "activeClients": "Active Clients"
+    }
+  },
+  "checkout": {
+    "title": "Checkout",
+    "summary": "Order Summary",
+    "payment": "Payment Method",
+    "payNow": "Pay Securely",
+    "success": "Payment Successful! Your project has been initiated."
+  }
+}
